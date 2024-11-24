@@ -42,5 +42,8 @@ public class teacher {
         teacher teacher = new teacher("Michael","Bay", "S001", 1999);
         System.out.println("Teacher details: "+ teacher.toString());
         System.out.println("Teacher age: "+ teacher.getAge());
+
+
+        System.out.println("Git push test");
     }
 }
