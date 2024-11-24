@@ -24,6 +24,7 @@ public class Ontap1 {
             System.out.println ("Ten: "+ name);
             System.out.println ("Tuoi: "+age);
             System.out.println ("id: "+id);
+            System.out.println ("Resolve conflict test");
         }
     }
 
